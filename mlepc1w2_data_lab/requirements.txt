@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+tensorflow-macos==2.15
+IPython==8.14.0
+
